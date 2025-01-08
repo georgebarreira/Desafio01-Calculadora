@@ -55,7 +55,7 @@ Error generating stack: `+u.message+`
   }
   @media (max-width: 590px) {
     background-color: #fff;
-    width: 65%;
+    width: 80%;
     font-size: 5px;
     border: 1px solid #000000;
     border-radius: 25px;
