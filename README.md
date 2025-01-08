@@ -13,5 +13,5 @@ Este projeto é uma aplicação simples de calculadora desenvolvida utilizando R
 ## Link do projeto online
 
 <div style="text-align:center;">
-<a href="https://georgebarreira.github.io/Desafio01-Calculadora/"><img src="./desafiocalculadora.png" alt="imagem do projeto"  /> </a>
+<a href="https://georgebarreira.github.io/Desafio01-Calculadora/"><img src="./desafiocalculadora.PNG" alt="imagem do projeto"  /> </a>
 </div>
